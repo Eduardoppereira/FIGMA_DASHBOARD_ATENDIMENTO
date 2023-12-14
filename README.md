@@ -24,7 +24,7 @@ Explore um ambiente intuitivo e informativo dedicado à análise detalhada do at
 
 ## Capturas de Tela
 <p align="center">
-  <img src="https://github.com/Eduardoppereira/FIGMA_DASHBOARD_VENDAS/blob/main/Vers%C3%A3o%203%20-%20Tim.png" width=60%>
+  <img src="https://github.com/Eduardoppereira/FIGMA_DASHBOARD_ATENDIMENTO/blob/main/Vers%C3%A3o%203%20-%20VIVO%20(1).png" width=60%>
 </p>
 
 ## Feedback
