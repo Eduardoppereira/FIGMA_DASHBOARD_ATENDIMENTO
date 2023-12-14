@@ -19,6 +19,11 @@ Explore um ambiente intuitivo e informativo dedicado à análise detalhada do at
 - **Gráfico de Tempo - Tendência ao Longo do Tempo:** Visualize a evolução do atendimento ao longo do tempo.
 - **Gráfico de Coluna - Nível de Prioridade dos Tickets:** Analise a distribuição dos tickets por nível de prioridade.
 
+## Tecnologias Utilizadas
+<p align="left">  
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-figma-05122A?style=flat&logo=figma" alt="powerbi" width="120" height="40"/> 
+</p> 
+    
 ## Acesse meu Dashboard no Figma
 [![Dashboard Figma](https://img.shields.io/badge/Playground%20no%20Figma-Explorar%20Prot%C3%B3tipo-brightgreen)](https://www.figma.com/community/file/1281075559934466666)
 
