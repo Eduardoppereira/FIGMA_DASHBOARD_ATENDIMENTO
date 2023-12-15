@@ -21,7 +21,7 @@ Explore um ambiente intuitivo e informativo dedicado à análise detalhada do at
 
 ## Tecnologias Utilizadas
 <p align="left">  
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-figma-05122A?style=flat&logo=figma" alt="powerbi" width="120" height="40"/> 
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-figma-05122A?style=flat&logo=figma" alt="figma" width="120" height="40"/> 
 </p> 
     
 ## Acesse meu Dashboard no Figma
